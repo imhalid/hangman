@@ -11,7 +11,6 @@ const HEAD = (
     }}
   ></div>
 );
-
 const BODY = (
   <div
     style={{
@@ -24,7 +23,6 @@ const BODY = (
     }}
   ></div>
 );
-
 const RIGHT_ARM = (
   <div
     style={{
@@ -40,7 +38,6 @@ const RIGHT_ARM = (
     }}
   ></div>
 );
-
 const LEFT_ARM = (
   <div
     style={{
@@ -56,7 +53,6 @@ const LEFT_ARM = (
     }}
   ></div>
 );
-
 const LEFT_LEG = (
   <div
     style={{
